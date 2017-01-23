@@ -8,7 +8,6 @@ using Microsoft.AspNetCore.Authorization;
 
 namespace RelayCity.Controllers
 {
-    [Authorize]
     public class HomeController : Controller
     {
         

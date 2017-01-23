@@ -8,6 +8,6 @@ The app consists of
 * management for a logged in users account
 
 ## Resources 
-* (dot net core)[https://dotnet.github.io/]
-* (Succinctly)[https://www.syncfusion.com/resources/techportal/details/ebooks/NET_Core_Succinctly?utm_medium=NetCoreEBNov16edm]
+* [dot net core](https://dotnet.github.io/)
+* [Succinctly](https://www.syncfusion.com/resources/techportal/details/ebooks/NET_Core_Succinctly?utm_medium=NetCoreEBNov16edm)
 * TODO 
